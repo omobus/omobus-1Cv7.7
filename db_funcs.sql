@@ -2,7 +2,6 @@
 /* This file is a part of the omobus-1Cv7.7 project.
  * Copyright (c) 2006 - 2010 ak-obs, Ltd. <info@omobus.ru>.
  * Author: George Kovalenko <george@ak-obs.ru>.
- * License: GPLv2
  */
 if OBJECT_ID('from10to36') is not null drop function [dbo].[from10to36]
 GO

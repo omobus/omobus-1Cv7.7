@@ -2,7 +2,6 @@
 /* This file is a part of the omobus-1Cv7.7 project.
  * Copyright (c) 2006 - 2010 ak-obs, Ltd. <info@omobus.ru>.
  * Author: George Kovalenko <george@ak-obs.ru>.
- * License: GPLv2
  */
 if OBJECT_ID('SP_CREATE_ELEMENT') is not null drop procedure [dbo].[SP_CREATE_ELEMENT]
 GO
